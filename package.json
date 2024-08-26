@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ananoturkiashviliT/test/issues"
   },
-  "homepage": "https://github.com/ananoturkiashviliT/test#readme"
+  "homepage": "https://github.com/ananoturkiashviliT/test#readme",
+  "publishConfig": {
+    "@ananoturkiashviliT:registry": "https://npm.pkg.github.com"
+  }
 }
